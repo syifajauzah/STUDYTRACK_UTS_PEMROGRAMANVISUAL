@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UTS_TI3A_SYIFA NUR JAUZAH/1.0.0": {
+        "runtime": {
+          "UTS_TI3A_SYIFA NUR JAUZAH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UTS_TI3A_SYIFA NUR JAUZAH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

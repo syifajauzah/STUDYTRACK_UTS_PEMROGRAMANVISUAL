@@ -1,0 +1,22 @@
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\bin\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.exe
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\bin\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.dll
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA_NUR_JAUZAH.Form1.resources
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA_NUR_JAUZAH.Form2.resources
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA_NUR_JAUZAH.Form3.resources
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA_NUR_JAUZAH.Form4.resources
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA_NUR_JAUZAH.Form5.resources
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA_NUR_JAUZAH.Resources.resources
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.vbproj.GenerateResource.cache
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.GeneratedMSBuildEditorConfig.editorconfig
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.AssemblyInfoInputs.cache
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.AssemblyInfo.vb
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.vbproj.CoreCompileInputs.cache
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.dll
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\refint\UTS_TI3A_SYIFA NUR JAUZAH.dll
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.pdb
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\bin\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.deps.json
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\bin\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.runtimeconfig.json
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\bin\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.pdb
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A_SYIFA NUR JAUZAH.genruntimeconfig.cache
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\ref\UTS_TI3A_SYIFA NUR JAUZAH.dll
+D:\semestertiga_file\pemvi\UTS_TI3A_SYIFA NUR JAUZAH\obj\Debug\net8.0-windows\UTS_TI3A.82973D89.Up2Date
